@@ -1,7 +1,16 @@
+p {
+    text-align: center;
+    }
+
 h1 {
     color: red;
+    text-align: center
     }
 
 h2 {
-    color: blue;
+    color: green;
+    }
+
+body {
+    background-color: beige;
     }
